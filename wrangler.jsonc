@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "seatsaero",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "d1-template-database",
+			"database_id": "3badb0e6-3ba7-415d-ade5-7d0c0bed910c"
+		}
+	]
+}
